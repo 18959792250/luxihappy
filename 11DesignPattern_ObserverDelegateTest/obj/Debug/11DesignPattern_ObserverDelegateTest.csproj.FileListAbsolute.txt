@@ -1,0 +1,5 @@
+C:\Users\JiYF\Desktop\DesignPattern\11DesignPattern_ObserverDelegateTest\bin\Debug\11DesignPattern_ObserverDelegateTest.exe
+C:\Users\JiYF\Desktop\DesignPattern\11DesignPattern_ObserverDelegateTest\bin\Debug\11DesignPattern_ObserverDelegateTest.pdb
+C:\Users\JiYF\Desktop\DesignPattern\11DesignPattern_ObserverDelegateTest\obj\Debug\11DesignPattern_ObserverDelegateTest.csprojResolveAssemblyReference.cache
+C:\Users\JiYF\Desktop\DesignPattern\11DesignPattern_ObserverDelegateTest\obj\Debug\11DesignPattern_ObserverDelegateTest.exe
+C:\Users\JiYF\Desktop\DesignPattern\11DesignPattern_ObserverDelegateTest\obj\Debug\11DesignPattern_ObserverDelegateTest.pdb

@@ -1,0 +1,16 @@
+E:\LearningPrj\vs2013Prj\DesignPattern\11DesignPattern_Observer\bin\Debug\11DesignPattern_Observer.exe
+E:\LearningPrj\vs2013Prj\DesignPattern\11DesignPattern_Observer\bin\Debug\11DesignPattern_Observer.pdb
+E:\LearningPrj\vs2013Prj\DesignPattern\11DesignPattern_Observer\obj\Debug\11DesignPattern_Observer.csprojResolveAssemblyReference.cache
+E:\LearningPrj\vs2013Prj\DesignPattern\11DesignPattern_Observer\obj\Debug\11DesignPattern_Observer.exe
+E:\LearningPrj\vs2013Prj\DesignPattern\11DesignPattern_Observer\obj\Debug\11DesignPattern_Observer.pdb
+C:\Users\JiYF\Desktop\DesignPattern\11DesignPattern_Observer\obj\Debug\11DesignPattern_Observer.exe
+C:\Users\JiYF\Desktop\DesignPattern\11DesignPattern_Observer\obj\Debug\11DesignPattern_Observer.pdb
+C:\Users\JiYF\Desktop\DesignPattern\11DesignPattern_Observer\bin\Debug\11DesignPattern_Observer.exe
+C:\Users\JiYF\Desktop\DesignPattern\11DesignPattern_Observer\bin\Debug\11DesignPattern_Observer.pdb
+C:\Users\JiYF\Desktop\DesignPattern\11DesignPattern_Observer\obj\Debug\11DesignPattern_Observer.csprojResolveAssemblyReference.cache
+C:\Users\ChinaTower\Desktop\设计模式\DesignPattern_Observer\DesignPattern_Observer\11DesignPattern_Observer\bin\Debug\11DesignPattern_Observer.exe
+C:\Users\ChinaTower\Desktop\设计模式\DesignPattern_Observer\DesignPattern_Observer\11DesignPattern_Observer\bin\Debug\11DesignPattern_Observer.pdb
+C:\Users\ChinaTower\Desktop\设计模式\DesignPattern_Observer\DesignPattern_Observer\11DesignPattern_Observer\obj\Debug\11DesignPattern_Observer.csprojAssemblyReference.cache
+C:\Users\ChinaTower\Desktop\设计模式\DesignPattern_Observer\DesignPattern_Observer\11DesignPattern_Observer\obj\Debug\11DesignPattern_Observer.csproj.CoreCompileInputs.cache
+C:\Users\ChinaTower\Desktop\设计模式\DesignPattern_Observer\DesignPattern_Observer\11DesignPattern_Observer\obj\Debug\11DesignPattern_Observer.exe
+C:\Users\ChinaTower\Desktop\设计模式\DesignPattern_Observer\DesignPattern_Observer\11DesignPattern_Observer\obj\Debug\11DesignPattern_Observer.pdb
